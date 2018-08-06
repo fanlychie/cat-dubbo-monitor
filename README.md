@@ -52,4 +52,4 @@ mvn clean install
 
 效果图：
 
-![cat-dubbo-monitor接入效果图](https://raw.githubusercontent.com/fanlychie/mdimg/master/cat-dubbo-monitor.png)
+![cat-dubbo-monitor接入效果图](https://raw.githubusercontent.com/fanlychie/mdimg/master/dubbo-monitor-cat.png)
